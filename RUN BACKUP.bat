@@ -1,0 +1,1 @@
+GIT_PATH\bin\bash.exe -i -c 'git add .; git commit -m "`date +\"%Y-%m-%d %T\"`"; git push origin master'
